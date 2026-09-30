@@ -72,7 +72,7 @@ Note: If the streak image doesn't load, you can remove or replace it with anothe
 <!-- Connect With Me -->
 ## Connect With Me
 <p>
-  <a href="https://stevetech.dev" target="_blank">Portfolio: stevetech.dev</a> (replace with your portfolio)
+  <a href="https://stevetech.dev" target="_blank">Portfolio: stevetech.dev</a> 
 </p>
 
 <p>
@@ -90,9 +90,7 @@ Note: If the streak image doesn't load, you can remove or replace it with anothe
   </a>
 </p>
 
-Replace link placeholders above with your actual LinkedIn profile, email, portfolio, and social links.
 
----
 
 <!-- Footer -->
 <footer>
